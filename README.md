@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winnipegguy
 - 👀 I’m interested in ...raspberry Pi and blockchains
-- 🌱 I’m currently learning .C..
+- 🌱 I’m currently learning .Rust..
 - 💞️ I’m looking to collaborate on .blockbook..
 - 📫 How to reach me .here ..
 
